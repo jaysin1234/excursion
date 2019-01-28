@@ -19,3 +19,14 @@ body {
   color: gray;
   text-align: right;
 }
+
+.verbiage {
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+}
+
+.photoverbiage {
+  font-size: 21px;
+  color: gray;
+}
