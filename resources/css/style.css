@@ -3,3 +3,19 @@ body {
   text-align: center;
   font-family: verdana;
 }
+
+.header--top {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.videodownloadlink {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
+}
